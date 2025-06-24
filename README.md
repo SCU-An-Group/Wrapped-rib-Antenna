@@ -1,4 +1,4 @@
-Created by Shiran Zhu and Ruiwen Guo under the supervision of Associate Prof. Ning An (anning@scu.edu.cn)
+Created by Shiran Zhu and Ruiwen Guo under the supervision of Associate Prof. Dr. Ning An (anning@scu.edu.cn)
 
 June, 2025
 
