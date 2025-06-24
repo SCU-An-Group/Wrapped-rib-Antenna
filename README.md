@@ -6,4 +6,4 @@ This code was originally developed to analyze the folding and deployment of wrap
 
 If you use or edit our work, please cite the appropriate reference:
 
-Zhu, S.#, Guo, R.#, Jin, X., Ma, X., Zhou, J., & **An, N.*** Folding and deployment experiments and analysis of deployable wrapped-rib antennas. Submitted.
+Zhu, S.#, Guo, R.#, Jin, X., Ma, X., Zhou, J., & **An, N.*** Folding and deployment experiments and analysis of deployable wrapped-rib antennas. Submitted. (#: Zhu & Guo contributes equally to this work.)
