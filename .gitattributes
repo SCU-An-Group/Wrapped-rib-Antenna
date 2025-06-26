@@ -1,0 +1,2 @@
+antenna filter=lfs diff=lfs merge=lfs -text
+onlyRibs filter=lfs diff=lfs merge=lfs -text
