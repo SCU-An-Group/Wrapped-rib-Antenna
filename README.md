@@ -6,4 +6,4 @@ This code was originally developed to analyze the folding and deployment of wrap
 
 If you use or edit our work, please cite the appropriate reference:
 
-Zhu, S.#, Guo, R.#, Jin, X., Ma, X., Zhou, J., & **An, N.*** Folding and deployment behavior of thin-walled deployable wrapped-rib antennas: experimental and numerical studies. Submitted. (#: Zhu & Guo contribute equally to this work.)
+Zhu, S.#, Guo, R.#, Jin, X., Ma, X., Zhou, J., & **An, N.*** Experimental and numerical studies on the folding and deployment behavior of space deployable wrapped-rib antennas. Acta Astronautica. (#: Zhu & Guo contribute equally to this work.)
